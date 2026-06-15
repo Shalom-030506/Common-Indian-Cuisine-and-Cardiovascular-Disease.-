@@ -4,7 +4,7 @@
 Author :- Arokiraj Sandu Moses Devappa .<br>
 Common Indian Cuisine, which causes cardiovascular disease and obesity in India.
 
-Overview of the Project <br><hr>
+<hr>Overview of the Project <br><hr>
 
 The report discusses how some delicious foods we eat are the main Root cause of some major diseases. The report uses two datasets: Indian Food Nutrition Processed and heart attack prediction in India, both from Kaggle datasets.
 As an Indian, our culture is so widely blessed with such a vast Majority of Food within our states, popular metropolitan cities and other small Towns and villages, and in terms of Work, business, and other purposes, one has to travel to different places, and we come across such food that are quite popular, deliciously famous delicacies of that Particular Regions.<br>
