@@ -16,7 +16,7 @@ The data was collected, cleaned, and sorted in order using the panda’s library
 And with the Help of SQL, key output factors were discovered in terms of major affected areas of the data, which brought a clear visualisation, proper understanding and the precise values in the dataset.
 <hr>Dashboard key insights<hr> <br>
 •	The Dashboard is divided into two parts with two different datasets from Kaggle.<br>
-• On the far left, it talks about the cuisine and its nutritional values.<br>
+• On the far left of the Dashboard , it talks about the cuisine and its nutritional values.<br>
 •	And on the right, it shows the Indian states and the medical condition predicted,categorised based on age, gender, heart attack risk, BP & cholesterol         readings.<br>
 •	It shows the various cuisines and the total amount of minerals, calories and total nutritional values for each cuisine.<br>
 •	Different food items with their amount of protein, fats, calories, carbohydrates, and fibres in them, along with a normal amount for a human body to consume in a day.<br>
