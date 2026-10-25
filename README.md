@@ -14,4 +14,4 @@ The Main Objective or we should say the Prime Goal is to live a life which has a
 The analysis was performed in Python using two datasets collected from Kaggle.
 The data was collected, cleaned, and sorted in order using the panda’s library, which helped observe trends and patterns across values. With Plotly, graphs and charts show the highs and lows in each column of the data.
 And with the Help of SQL, key output factors were discovered in terms of major affected areas of the data, which brought a clear visualisation, proper understanding and the precise values in the dataset.
-
+<h1>DashBoard_cardio<hi>
