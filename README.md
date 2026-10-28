@@ -26,5 +26,9 @@ Different food items with their amount of protein, fats, calories, carbohydrates
 <br>
 It talks about the cuisine that we normally eat and their nutritional values for each cuisine, and it shows the key points of each dish and their total nutritional scores, and on the other hand, it talks about the overall Indian state, their data based on age, gender, and overall health condition, with reference to serious cardiovascular health issue the major factors which effect the most is such illness.<br>
 <br>
+<h1>Tech stack</h1>h1> <br>
+Power BI.<br>
+Stacked Bar charts, Doughnut charts, cards, maps, and slicers.<br>
+
 
 
