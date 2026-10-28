@@ -27,17 +27,16 @@ Different food items with their amount of protein, fats, calories, carbohydrates
 It talks about the cuisine that we normally eat and their nutritional values for each cuisine, and it shows the key points of each dish and their total nutritional scores, and on the other hand, it talks about the overall Indian state, their data based on age, gender, and overall health condition, with reference to serious cardiovascular health issue the major factors which effect the most is such illness.<br>
 <br>
 <hr>Tech stack<hr> <br>
- <br>
+
 Power BI.<br>
- <br>
+
 Stacked Bar charts, Doughnut charts, cards, maps, and slicers.<br>
- <br>
+
 <hr>Data source<hr><br>
- <br>
+
 The datasets are used from the Kaggle dataset, <br>
- <br>
-<hr>Features and highlights<hr>><br>
-<br>
+
+<hr>Features and highlights<hr><br>
  
 In today's fast-paced life, maintaining health is one of the major parts of every individual's life, as fitness and diet have diverse effects on our health, and we come across some serious health issues, like cardiovascular disease, obesity, and High Blood pressure; 75% of such health issues arise from the food we intake when we do not balance our nutrients daily. The overview visual in the dashboard shows us the nutritional values of each food and the measures it contains, which help us to understand our food better and the baseline values that the human body should consume.<br>
 <br>
