@@ -1,4 +1,4 @@
-# <h1>Common-Indian-Cuisine-and-Cardiovascular-Disease.<h1/>
+# <h1>Common Cuisine and Cardiovascular Disease.<h1/>
  Project  Cuisine which causes Cardiovascular Disease ,and Over Weight and obesity in India.
 <br>
 Author :- Arokiraj Sandu Moses Devappa .<br>
