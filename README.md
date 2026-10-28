@@ -18,9 +18,13 @@ And with the Help of SQL, key output factors were discovered in terms of major a
 
 It shows the various cuisines and the total amount of minerals, calories and total nutritional values for each cuisine.<br>
 Different food items with their amount of protein, fats, calories, carbohydrates, and fibres in them, along with a normal amount for a human body to consume in a day.<br>
+<br>
 The Dashboard is divided into two parts with two different datasets from Kaggle. On the far left of the dashboard, it talks about the cuisine and its nutritional values, and on the Right, it shows the Indian states and the predicted medical condition, categorised based on age, gender, heart attack risk, BP & cholesterol readings for people living in these states.<br>
+<br>
 It shows the various cuisines and the total amount of minerals, calories and total nutritional values for each cuisine.<br>
 Different food items with their amount of protein, fats, calories, carbohydrates, and fibres in them, along with a normal amount for a human body to consume in a day.<br>
+<br>
 It talks about the cuisine that we normally eat and their nutritional values for each cuisine, and it shows the key points of each dish and their total nutritional scores, and on the other hand, it talks about the overall Indian state, their data based on age, gender, and overall health condition, with reference to serious cardiovascular health issue the major factors which effect the most is such illness.<br>
+<br>
 
 
